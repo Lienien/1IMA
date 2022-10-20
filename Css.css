@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@700&family=Kanit:ital,wght@1,300&family=Quicksand:wght@500&family=Silkscreen&family=Source+Code+Pro&display=swap');
+.p1{
+    font-family: fuzzy bubbles;
+    font-style: italic;
+}
+.p2{
+    font-family: kanit;
+    font-size: larger;
+}
+.p3{
+    font-family: quicksand;
+    font-weight: 900;
+}
+.p4{
+    font-family: silkscreen;
+    font-variant: small-caps;
+}
+.p5{
+    font-family: source code pro;
+}
